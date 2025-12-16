@@ -41,13 +41,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heyahammad&theme=tokyonight" alt="streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=heyahammad&theme=tokyonight&cache_seconds=1800" alt="streak-stats"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyahammad&show_icons=true&theme=tokyonight" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heyahammad&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="github-stats"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyahammad&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyahammad&layout=compact&theme=tokyonight&cache_seconds=1800" alt="top-langs"/>
 </p>
 
 ---
