@@ -1,4 +1,4 @@
-![Banner](assets/herosec.png)
+![Banner](assets/herosec2.png)
 
 <div align="center">
   <img src="assets/logo.png" alt="Logo" width="200"/>
